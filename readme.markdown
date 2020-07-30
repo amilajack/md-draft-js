@@ -96,7 +96,7 @@ class MyEditor extends React.Component {
 
 ## Fully working example
 
-See [this file](https://github.com/mulesoft/md-draft-js/blob/master/playground/app.js) to check a fully working example.
+See [this file](https://github.com/mulesoft/md-draft-js/blob/master/playground/app.jsx) to check a fully working example.
 
 ## License
 
