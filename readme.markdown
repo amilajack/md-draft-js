@@ -2,7 +2,7 @@
 
 Markdown editor framework that works with an immutable state and utility functions to modify it.
 
-Live demo [here](http://mulesoft.github.io/md-draft-js)!
+Live demo [here](http://mulesoft-labs.github.io/md-draft-js)!
 
 ## Install
 
